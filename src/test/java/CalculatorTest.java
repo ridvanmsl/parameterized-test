@@ -1,6 +1,8 @@
-// B201202062 - RIDVAN MUSAOĞLU
-// SOFTWARE VERIFICATION AND VALIDATION HOMEWORK 1
-//
+/*
+ B201202062 - RIDVAN MUSAOĞLU
+ SOFTWARE VERIFICATION AND VALIDATION HOMEWORK 1
+ https://github.com/ridvanmsl/parameterized-test
+*/
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
