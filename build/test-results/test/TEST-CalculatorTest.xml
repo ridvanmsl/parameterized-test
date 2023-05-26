@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-05-26T15:26:44" hostname="RIDVANMSL" time="0.097">
+  <properties/>
+  <testcase name="testDivision1()" classname="CalculatorTest" time="0.02"/>
+  <testcase name="testDivision2()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testDivision3()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testDivision4()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testDivision5()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testDivision6()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="[1] 10, 2, 5" classname="CalculatorTest" time="0.018"/>
+  <testcase name="[2] 10, 4, 2.5" classname="CalculatorTest" time="0.001"/>
+  <testcase name="[3] 12.5, 5, 2.5" classname="CalculatorTest" time="0.001"/>
+  <testcase name="[4] 10, 2.5, 4" classname="CalculatorTest" time="0.001"/>
+  <testcase name="[5] 12.5, 2.5, 5" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
